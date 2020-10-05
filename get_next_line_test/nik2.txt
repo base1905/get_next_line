@@ -1,0 +1,3 @@
+However, the language server processes for C++ won't run on 32-bit Linux, 
+so our extension wouldn't work for you even if you did download it successfully, 
+unless you only intend to use the debugger.
